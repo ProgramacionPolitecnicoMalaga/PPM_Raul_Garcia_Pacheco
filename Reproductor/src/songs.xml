@@ -1,0 +1,7 @@
+<?xml version= "1.0" encoding = "UTF-8" ?>
+<songs>
+    <song title="Adventure" file="mp3/adventure.mp3"/>
+    <song title="Better Days" file="mp3/betterdays.mp3"/>
+    <song title="Buddy" file="mp3/buddy.mp3"/>
+    <song title="Dubstep" file="mp3/dubstep.mp3"/>
+</songs>
