@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="792d7052-43d7-4800-b2fe-7f0d356d8a14" name="Default Changelist" comment="" />
+    <list default="true" id="792d7052-43d7-4800-b2fe-7f0d356d8a14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Act18/src/ListaEspera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Act18/src/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Act18/src/Urgencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProbandoTreeSet/ProbandoPiorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProbandoTreeSet/ProbandoPiorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProbandoPiorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProbandoPiorityQueue.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1U6k6ItMHpq3lUXcRAwq5vjlhWj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rauli\Desktop\Módulo\Programación\ProbandoTreeSet\src" />
@@ -33,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProbandoHashMap">
+  <component name="RunManager" selected="Application.ProbandoPiorityQueue">
     <configuration name="ProbandoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProbandoHashMap" />
       <module name="ProbandoTreeSet" />
@@ -57,9 +68,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProbandoHashMap" />
         <item itemvalue="Application.ProbandoPiorityQueue" />
         <item itemvalue="Application.ProbandoTreeSet" />
+        <item itemvalue="Application.ProbandoHashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -75,5 +86,18 @@
       <updated>1574684255647</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

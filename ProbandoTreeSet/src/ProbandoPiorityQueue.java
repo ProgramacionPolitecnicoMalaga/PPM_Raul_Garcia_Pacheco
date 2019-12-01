@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 
 public class ProbandoPiorityQueue {
     public static void main(String[] args) {
-        PriorityQueue<Tarea> tareas = new PriorityQueue<Tarea>(Tarea.COMPARATOR_DESCRIPCION);
+        PriorityQueue<Tarea> tareas = new PriorityQueue<Tarea>(Tarea.COMPARATOR_PRIORIDAD);
 
         tareas.add(new Tarea("Boca", 3));
         tareas.add(new Tarea("Avión", 1));
