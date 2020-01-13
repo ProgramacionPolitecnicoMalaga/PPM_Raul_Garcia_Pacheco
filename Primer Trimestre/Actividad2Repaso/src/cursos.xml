@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cursos>
+    <curso nombre="DAW11" >
+        <asignatura nombre="Programación"/>
+        <asignatura nombre="Entornos de desarrollo"/>
+    </curso>
+
+</cursos>
