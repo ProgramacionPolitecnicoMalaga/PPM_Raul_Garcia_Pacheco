@@ -25,7 +25,7 @@ public class XMLReader {
         String dir = System.getProperty("user.dir");
         System.out.println(dir);
         try {
-            File inputFile = new File("C:\\Users\\raulgp19\\IdeaProjects\\EjercicioFactoryMethod\\src\\main\\java\\com\\politecnico\\XML\\Informacion_Nacionalidades.xml");
+            File inputFile = new File(dir+"\\src\\main\\java\\com\\politecnico\\XML\\Informacion_Nacionalidades.xml");
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(inputFile);
