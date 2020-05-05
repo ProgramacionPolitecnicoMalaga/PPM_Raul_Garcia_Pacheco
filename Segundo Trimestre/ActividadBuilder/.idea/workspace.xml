@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba96cb1a-9b1b-4087-89ad-342671ddfb91" name="Default Changelist" comment="" />
+    <list default="true" id="39ffed54-68aa-40ca-acda-8331a4b4ea39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +28,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
-  <component name="ProjectId" id="1ayv6Ms5Cbxt3ZmglsfTdyoVd5j" />
+  <component name="ProjectId" id="1bUXkOBqII3qdWF2qR2LWQY9rvb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,10 +47,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raulgp19\Desktop\GitProgramacion\PPM_Raul_Garcia_Pacheco\Segundo Trimestre\PruebaJUnit\JUnitpRUEBA\JUnitPrueba\ActividadBuilder\src\main\java\com\politecnico" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.politecnico.App" />
-      <module name="EjercicioAbstractFactory" />
+      <module name="ActividadBuilder" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.politecnico.*" />
@@ -73,12 +77,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba96cb1a-9b1b-4087-89ad-342671ddfb91" name="Default Changelist" comment="" />
-      <created>1587720471710</created>
+      <changelist id="39ffed54-68aa-40ca-acda-8331a4b4ea39" name="Default Changelist" comment="" />
+      <created>1588687787294</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587720471710</updated>
-      <workItem from="1587720476976" duration="4633000" />
+      <updated>1588687787294</updated>
+      <workItem from="1588687792721" duration="5716000" />
     </task>
     <servers />
   </component>
@@ -97,29 +101,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1587723370503">
+    <state x="1208" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1588698853542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587723370503" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587733518317">
+    <state x="1208" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588698853542" />
+    <state width="916" height="282" key="GridCell.Tab.0.bottom" timestamp="1588699034649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587733518317" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587733518317">
+    <state width="916" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588699034649" />
+    <state width="916" height="282" key="GridCell.Tab.0.center" timestamp="1588699034649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587733518317" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587733518317">
+    <state width="916" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588699034649" />
+    <state width="916" height="282" key="GridCell.Tab.0.left" timestamp="1588699034649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587733518317" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587733518317">
+    <state width="916" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588699034649" />
+    <state width="916" height="282" key="GridCell.Tab.0.right" timestamp="1588699034649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587733518317" />
-    <state x="342" y="181" key="new project wizard" timestamp="1587733516863">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="181" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587733516863" />
+    <state width="916" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588699034649" />
   </component>
 </project>
